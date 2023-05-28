@@ -1,0 +1,4 @@
+#Ignore virtual setup files
+*get-pip.py
+virt/
+
